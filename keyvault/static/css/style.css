@@ -7,3 +7,7 @@
         flex-grow: 0;
     }
 } */
+
+.bg-dark {
+    background-color: #131515 !important;
+}
