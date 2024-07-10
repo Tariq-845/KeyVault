@@ -1,5 +1,9 @@
-#centre {
-    margin: auto;
-    align-items: center;
-    justify-content: center;
+/* .navbar-collapse {
+    flex-grow: 1;
 }
+
+@media screen and (min-width: 992px) {
+    .navbar-collapse {
+        flex-grow: 0;
+    }
+} */
